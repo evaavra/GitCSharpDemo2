@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitCSharpDemo2
 {
-    class Program
+    class Manager : Person
     {
-        static void Main(string[] args)
-        {
-      
-        }
+        List<Developer> Developers { get; set; }
     }
 }

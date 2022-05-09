@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitCSharpDemo2
 {
-    class Program
+    class Accountant : Person
     {
-        static void Main(string[] args)
-        {
-      
-        }
     }
 }
